@@ -8,9 +8,13 @@ Project Introduction:
 My project involves the development of an interactive dashboard using Microsoft Power BI, centered around the Kaggle dataset "Shark Tank India Dataset." This endeavor required significant effort to craft intuitive visuals, facilitating easy comprehension and analysis of investments made by investors across three seasons.
 
 Throughout this project, I acquired valuable skills in various aspects:
+
 a) Formatting, cleaning, integrating, and transforming databases using the Power Query Editor and DAX.
+
 b) Employing slicers and inbuilt functions proficiently to derive actionable business insights.
+
 c) Enhancing database coherence and relevance through query merging.
+
 d) Leveraging design principles to enhance the impact of presented data.
 
 Project Content:
